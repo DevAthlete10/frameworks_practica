@@ -1,3 +1,7 @@
-# Práctica con FLUTTER
+# Almacenamiento de códigos de práctica
 
-Se manteniene en este repositorio los códigos de practica con el framework FLUTTER
+Se manteniene un este repositorio los códigos de practica con diferentes frameworks
+
+> Cada frameworks tendra su rama específica
+
+La rama main o master solo será la explicación del repositorio
